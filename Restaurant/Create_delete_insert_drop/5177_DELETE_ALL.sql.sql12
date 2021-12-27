@@ -1,0 +1,11 @@
+delete from DEPARTMENT;
+
+delete from DLOCATION;
+
+delete from EMPLOYEE;
+
+delete from DEPENDENT;
+ 
+delete from POJECT;
+
+delete from WORKSON;
